@@ -1,0 +1,8 @@
+C:\Users\Admin\bridgelab\csharpprograms\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Admin\bridgelab\csharpprograms\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Admin\bridgelab\csharpprograms\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Admin\bridgelab\csharpprograms\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Admin\bridgelab\csharpprograms\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\bridgelab\csharpprograms\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Admin\bridgelab\csharpprograms\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Admin\bridgelab\csharpprograms\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
